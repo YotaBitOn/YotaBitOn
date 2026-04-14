@@ -9,5 +9,5 @@ I'm **Artem Yasinets** and I love **software-engineering** and **data-analysis**
 - 🤔 I’m looking for help with code architecture and **tests**
 - 💬 Ask me about **the reason why** i do my projects
 - 📫 How to reach me: edartemyasinets@gmail.com 
-- ⚡ Fun fact: i use [debian](https://www.docker.com/) btw
+- ⚡ Fun fact: i use **debian** btw
 
