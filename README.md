@@ -4,7 +4,7 @@
 I'm **Artem Yasinets** and I love **software-engineering** and **data-analysis**
 
 - 🔭 I’m currently working on [To-Plan](https://github.com/YotaBitOn/To-PLan)
-- 🌱 I’m currently learning **Docker** and **C++**
+- 🌱 I’m currently learning **Docker** and **Django**
 - 👯 I’m looking to collaborate on developing **software** and gathering **data**
 - 🤔 I’m looking for help with code architecture and **tests**
 - 💬 Ask me about **the reason why** i do my projects
