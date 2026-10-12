@@ -3,8 +3,8 @@
 # Hi there 👋
 I'm **Artem Yasinets** and I'm into **software-engineering** and **data-analysis**
 
-- 🔭 I’m currently working on ![TUKE-Rozvrh]([https://github.com/YotaBitOn/TUKE-Rozvrh.git)
-- 🌱 I’m currently learning **PostgreSQL** and **Django**
+- 🔭 I’m currently working on GymBeam Shift Notifier
+- 🌱 I’m currently learning **Redis** and **Flask**
 - 👯 I’m looking to collaborate on developing **software** and gathering **data**
 - 🤔 I’m looking for help with code architecture and **tests**
 - 📫 How to reach me: edartemyasinets@gmail.com 
